@@ -1,0 +1,1 @@
+import{j as s,C as o,L as a,O as r}from"./index-BVzUvTQ6.js";const t=()=>s.jsxs(s.Fragment,{children:[s.jsx(o,{}),s.jsx(a,{to:"dashboard/laptops",children:"Laptops"}),s.jsx(a,{to:"dashboard/mobiles",children:"Mobiles"}),s.jsx(a,{to:"dashboard/headphones",children:"Headphones"}),s.jsx("br",{}),s.jsx("br",{}),s.jsx(r,{})]});export{t as default};
